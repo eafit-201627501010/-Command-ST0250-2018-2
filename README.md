@@ -1,2 +1,2 @@
-# Command-ST0250-2018-2
-Son comandos que hacen un código mas fácil y útil sin ser redundantes.
+# ST0250-2018-2
+codigo patrones.
