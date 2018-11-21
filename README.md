@@ -10,6 +10,8 @@ Command
 Las herramientas permiten que objetos hagan peticiones de objetos con aplicaciones sin especificar, envolviendo la solicitud en un objeto. Este objeto puede ser almacenado y pasado al igual que otros objetos de alrededor. La clave de este patrón es una clase abstracta Command, que declara una interfaz para la ejecución de operaciones. En la forma más simple esta interfaz incluye un resumen de las operaciones ejecutadas.
 El patrón Command lo que permite es desacoplar al objeto que invoca a la operación de aquél que tiene el conocimiento necesario para realizarla.
 ## Modelo
+![pendejo2](https://user-images.githubusercontent.com/30695124/48812665-75afb600-ed01-11e8-9980-534726fb16d7.png)
+
 ## Lenguaje implementado
 Java
 ## Ejecucion
